@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url("clockimg.png");
+    background-image: url("/clockimg.png");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
